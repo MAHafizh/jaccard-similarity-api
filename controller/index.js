@@ -1,7 +1,6 @@
 const db = require("../database/firebaseConfig.js");
 
 const getDiagnosa = async (req, res) => {
-    
   let highSim = 0;
   let mostSim = null;
 
