@@ -1,0 +1,12 @@
+node_modules
+<<<<<<< HEAD
+<<<<<<< HEAD
+request.rest
+service_account.json
+=======
+request.rest
+>>>>>>> 98c0e32 (add new config)
+=======
+request.rest
+service_account.json
+>>>>>>> 92ab062 (update databsae)
