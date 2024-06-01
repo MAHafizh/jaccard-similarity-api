@@ -6,7 +6,7 @@ router.get('/', (req, res) => {
     res.send('API is running');
   });
 
-router.get('/diagnosa', getDiagnosa)
+router.post('/diagnosa', getDiagnosa)
 router.delete('/delete-case/:caseId', deleteDataKasusbyId)
 
 module.exports = router;
